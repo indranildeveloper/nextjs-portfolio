@@ -5,7 +5,7 @@ export const projects = [
       "A Full Stack application for hosting and joining musical events",
     image: "images/1.png",
     tags: ["NextJS", "React", "Strapi"],
-    source: "https://github.com/indranildeveloper/dj-events-frontendm",
+    source: "https://github.com/indranildeveloper/dj-events-frontend",
     visit: "https://indranildeveloperdjevents.vercel.app/",
     id: 0,
   },
