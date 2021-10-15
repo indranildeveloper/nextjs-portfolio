@@ -43,10 +43,10 @@ const Projects = () => (
               </TagList>
             </div>
             <UtilityList>
-              <ExternalLinks href={visit} target="_blank">
+              <ExternalLinks href={source} target="_blank">
                 <FaGithub /> Code
               </ExternalLinks>
-              <ExternalLinks href={source} target="_blank">
+              <ExternalLinks href={visit} target="_blank">
                 <FaArrowAltCircleRight />
                 Visit
               </ExternalLinks>
